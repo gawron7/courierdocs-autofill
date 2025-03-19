@@ -12,7 +12,7 @@ Skopiuj zawartość skryptu fillCourierInstructions.gs.
 
 1. Otwórz arkusz Google Sheets z danymi.
 2. Przejdź do zakładki Rozszerzenia -> Apps Script.
-3. Po otworzeniu Apps Script wklej gotowy kod i podmień ID dokumentu Google Docs w tej linijce.:
+3. Po otworzeniu Apps Script wklej gotowy kod i podmień ID dokumentu Google Docs w tej linijce:
    ```js
    var doc = DocumentApp.openById(
      "YOUR_DOCUMENT_ID" // Wstaw tutaj ID swojego dokumentu, które znajdziesz w linku Google Docs, np. https://docs.google.com/document/d/YOUR_DOCUMENT_ID/edit
