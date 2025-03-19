@@ -1,5 +1,5 @@
 /**
- * Skrypt do automatycznego wypełniania dokumentu instrukcji dla kueriera Google Docs danymi z arkusza Google Sheets.
+ * Skrypt do automatycznego wypełniania dokumentu instrukcji dla kuriera Google Docs danymi z arkusza Google Sheets.
  * Zastępuje linie po "TYLKO I WYŁĄCZNIE" imionami i nazwiskami z zaznaczonych komórek.
  */
 function fillCourierInstructions() {
